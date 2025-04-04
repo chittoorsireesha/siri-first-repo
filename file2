@@ -1,0 +1,8 @@
+AWS is a cloud computing platform provided by Amazon.
+It offers services like storage, compute power, databases, networking, and more.
+You pay only for what you use (pay-as-you-go model).
+EC2 (Elastic Compute Cloud) – Virtual servers to run applications.
+S3 (Simple Storage Service) – Stores files and data like images, videos, documents.
+RDS (Relational Database Service) – Managed databases like MySQL, PostgreSQL.
+Lambda – Run code without managing servers (serverless).
+VPC (Virtual Private Cloud) – Your own isolated network in the cloud.
