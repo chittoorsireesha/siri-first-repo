@@ -1,0 +1,8 @@
+Repository – A project folder containing code, files, and history.
+Branches – Used to work on different features or fixes without affecting the main code.
+Pull Requests – Suggest code changes; other developers can review and merge them.
+Commits – Each saved change in a repository (with a message).
+Issues – Used to track bugs, tasks, or feature requests.
+Actions – Automate workflows like testing, building, or deployment (CI/CD).
+Fork – Make your own copy of someone else’s repository.
+README.md – A markdown file used to explain the project (like an intro or guide).
